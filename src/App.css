@@ -40,5 +40,5 @@
 /* Defining Fonts */
 @font-face {
   font-family: 'Flipbash';
-  src: local('Flipbash'), url(./fonts/FLIPBASH.OTF) format('otf');
+  src: local('Flipbash'), url(./fonts/FLIPBASH.OTF) format('opentype');
 }
