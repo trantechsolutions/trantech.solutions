@@ -1,6 +1,5 @@
 import logo from './images/logo.svg';
 import './App.css';
-import Alert from '@mui/material/Alert';
 
 function App() {
   return (
