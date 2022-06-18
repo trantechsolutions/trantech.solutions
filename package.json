@@ -2,6 +2,7 @@
   "name": "trantechsolutions",
   "version": "0.1.0",
   "private": true,
+  "icon": "src/images/favicon@2x.png",
   "main": "src/index.js",
   "dependencies": {
     "@emotion/react": "^11.9.0",
